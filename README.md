@@ -1,7 +1,8 @@
+# .md -> 마크다운(markdown) 형식
 # 첫 번재 제목
 start
 
-## index start 두 번째 제목
+## 두 번째 제목
 
 ---
 
